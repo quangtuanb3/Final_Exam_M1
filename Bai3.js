@@ -1,5 +1,4 @@
 let vowelsObj = { a: 0, o: 0, e: 0, u: 0, i: 0 };
-let string = "aoeuiaoeui bbbbbbsdfsd"
 
 function countVowel(string) {
     let total = 0;
