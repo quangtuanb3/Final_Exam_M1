@@ -25,7 +25,7 @@ david.setEmail("david.do@gmail.com");
 let davidInfo = david.toString();
 console.log('David information: ' + davidInfo);
 
-let Staffs = new Array(3);
+let Staffs = new Array(3); 
 Staffs.push(david);
 Staffs.push(new Staff("Petter Parker", "Petter.Parker@gmail.com"), new Staff("Marry Jane", "Marry.Jane@gmail.com"));
 
